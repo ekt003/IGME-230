@@ -32,7 +32,8 @@ There isn't really a wrong way to play the game. There are very minimal amount o
 There isn't any end goal in this game so there's no 'secret strategy' to learn in order to win. The only thing needed to succeed is to have fun.
 
 ## Screenshots
-Added outside of this document
+![alt text](https://github.com/ekt003/IGME-230/blob/master/InGame.png)
+![alt text](https://github.com/ekt003/IGME-230/blob/master/game_concept_gun.png)
 
 ## Other
 I am very tired and can think of no things to put in this category
