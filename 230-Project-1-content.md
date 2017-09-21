@@ -9,10 +9,10 @@ Casual Sandbox-type game
 Initially this game will be desktop only, however I hope to expand it to other electronic devices in the future.
 
 ## Story
-Your avatar is painting a picture using a paint gun and the lines on the floor
+Your avatar is painting a picture using a paint gun and the lines on the floor.
 
 ## Aesthetics
-The graphics are fun, bright, and bubbly to encourage a creative environment for the user. The sounds are simple, yet upbeat. There will be background music while playing, along with sound for the paint, the avatar movement, and menu interactions
+The graphics are fun, bright, and bubbly to encourage a creative environment for the user. The sounds are simple, yet upbeat. There will be background music while playing, along with sound for the paint, the avatar movement, and menu interactions. The idea is to provide the user with a relaxing interactive experience.
 
 ## Gameplay
 
