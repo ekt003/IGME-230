@@ -14,6 +14,9 @@ Your avatar is painting a picture using a paint gun and the lines on the floor.
 ## Aesthetics
 The graphics are fun, bright, and bubbly to encourage a creative environment for the user. The sounds are simple, yet upbeat. There will be background music while playing, along with sound for the paint, the avatar movement, and menu interactions. The idea is to provide the user with a relaxing interactive experience.
 
+###Paint Gun Design
+![alt text](https://github.com/ekt003/IGME-230/blob/master/game_concept_gun.png)
+
 ## Gameplay
 
 ### Mechanics
@@ -33,7 +36,6 @@ There isn't any end goal in this game so there's no 'secret strategy' to learn i
 
 ## Screenshots
 ![alt text](https://github.com/ekt003/IGME-230/blob/master/InGame.png)
-![alt text](https://github.com/ekt003/IGME-230/blob/master/game_concept_gun.png)
 
 ## Other
 I am very tired and can think of no things to put in this category
