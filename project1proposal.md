@@ -1,4 +1,4 @@
-# Game Title
+# As Fun As Watching Paint Dry
 ## High Concept
 Have you ever wanted to play splatoon but with no competition where the only goal was to paint stuff? Well do I have news for you! This game combines all of the bright colors of Nintendo's classic with a more relaxed and creative environment.
 
