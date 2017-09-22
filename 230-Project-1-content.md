@@ -9,7 +9,7 @@ Casual Sandbox-type game
 Initially this game will be desktop only, however I hope to expand it to other electronic devices in the future.
 
 ## Story
-Your avatar is painting a picture using a paint gun and the lines on the floor.
+After getting caught doing graffiti on the walls of your school, you have been forced to attend creativity workshops in order to 'encourage contructive and legal expressions of creativity' . . . whatever that means. Oh well, spending an afternoon spray painting giant canvases instead of brick walls isn't too bad. It's actually sort of relaxing.
 
 ## Aesthetics
 The graphics are fun, bright, and bubbly to encourage a creative environment for the user. The sounds are simple, yet upbeat. There will be background music while playing, along with sound for the paint, the avatar movement, and menu interactions. The idea is to provide the user with a relaxing interactive experience.
@@ -18,6 +18,7 @@ The graphics are fun, bright, and bubbly to encourage a creative environment for
 ![alt text](https://github.com/ekt003/IGME-230/blob/master/game_concept_gun.png)
 
 ## Gameplay
+Allow your avatar to paint pictures using a paint gun and the lines on the floor.
 
 ### Mechanics
 Negative Space is used to encourage the user to fill it!
