@@ -14,7 +14,7 @@ After getting caught doing graffiti on the walls of your school, you have been f
 ## Aesthetics
 The graphics are fun, bright, and bubbly to encourage a creative environment for the user. The sounds are simple, yet upbeat. There will be background music while playing, along with sound for the paint, the avatar movement, and menu interactions. The idea is to provide the user with a relaxing interactive experience.
 
-###Paint Gun Design
+### Paint Gun Design
 ![alt text](https://github.com/ekt003/IGME-230/blob/master/game_concept_gun.png)
 
 ## Gameplay
