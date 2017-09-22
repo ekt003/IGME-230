@@ -37,6 +37,7 @@ There isn't any end goal in this game so there's no 'secret strategy' to learn i
 
 ## Screenshots
 ![alt text](https://github.com/ekt003/IGME-230/blob/master/InGame.png)
+![alt text](https://github.com/ekt003/IGME-230/blob/master/Starting%20Screen.png)
 
 ## Other
 I am very tired and can think of no things to put in this category
